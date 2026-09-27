@@ -13,7 +13,8 @@ pkg install nodejs
 pkg install php
 
 pip3 install requests wget pyshorteners
-git clone https://github.com/ayofuns/DARK-PHISHING-.git
+
+ git clone https://github.com/ayofuns/DARK-PHISHING-.git
 
 ls
 
